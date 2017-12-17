@@ -1,0 +1,12 @@
+{
+  "name": "bongrun/php-vk-api-sdk",
+  "require": {
+    "bongrun/class-generator": "1.*",
+    "geraintluff/jsv4": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "bongrun\\vk\\": "src/"
+    }
+  }
+}
